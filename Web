@@ -1,0 +1,9 @@
+安裝Xampp
+C:\XAMPP\htdocs
+
+a.php
+<?php
+   phpinfo();
+?>
+開Browser
+127.0.0.1/a.php
